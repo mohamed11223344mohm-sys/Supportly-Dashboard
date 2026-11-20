@@ -1,0 +1,12 @@
+{
+  "/(dashboard)/customers/[id]/page": "/customers/[id]",
+  "/(dashboard)/customers/page": "/customers",
+  "/(dashboard)/inbox/page": "/inbox",
+  "/(dashboard)/page": "/",
+  "/(dashboard)/reports/page": "/reports",
+  "/(dashboard)/settings/page": "/settings",
+  "/(dashboard)/team/page": "/team",
+  "/(dashboard)/tickets/[id]/page": "/tickets/[id]",
+  "/(dashboard)/tickets/page": "/tickets",
+  "/_not-found/page": "/_not-found"
+}

@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(dashboard)/layout,_N_T_/(dashboard)/inbox/layout,_N_T_/(dashboard)/inbox/page,_N_T_/inbox"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/9ccd9768a11650675c4f25a5c13cc81160d91357fb91254b81c01a8299d5db0a/$/inbox",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/(dashboard)/inbox/page"
+    },
+    "isFallback": false
+  }
+}
